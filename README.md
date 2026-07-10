@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
+<h1 align="center">Hi 👋, I'm Shourob</h1>
 <h3 align="center">A Data & Analytics Engineer</h3>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndaruga&label=Profile%20views&color=0e75b6&style=flat" alt="Ndaruga" /> </p>
@@ -12,16 +12,19 @@
 
 - 💬 Ask me about: **Data Engineering, Analytics, Data Security, etc**
 
+<!---
 - 📫 How to reach out to me on twitter: **[@furanjes](https://twitter.com/furanjes)**
+--->
 
-- I speak Fluent **English** and some **Chinese Mandrin**
+- I speak Fluent **English** and **Bengali**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ndaruga_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211199967-1e9bb95b-318f-4af3-8e79-cdd50bf1aa6d.png" alt="ndaruga_" height="35" width="50" /></a>
-<a href="https://linkedin.com/in/francis-ndaruga" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200043-e635f942-85e1-45b2-b6c6-2a60c841a9a7.png" alt="francis-ndaruga" height="30" width="35" /></a>
-<a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/shourob-khan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68260816/211200043-e635f942-85e1-45b2-b6c6-2a60c841a9a7.png" alt="Shourob Khan" height="30" width="35" /></a>
+
+<!-- <a href="https://medium.com/@ndaruga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndaruga" height="30" width="50" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
